@@ -1,5 +1,7 @@
+from setuptools import setup
+
 setup(
-    name='Booklover',
+    name='booklover',
     version='0.1',
     description='M09 hw package',
     url='https://github.com/psridhar99/m09hw',
